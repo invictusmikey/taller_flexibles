@@ -1,0 +1,25 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: 0;
+}
+
+div{
+
+width: 400px;
+height: 50px;
+background-color: darkgrey;
+display: flex;
+margin: 5px;
+align-items: center;
+justify-content: space-around;
+}
+ul{
+list-style: none;
+}
+a{
+text-decoration: none;
+background-color:aliceblue;
+color: black;
+padding: 2px;
+}
